@@ -5,7 +5,7 @@ TO run this program in your computer
 3- If in windows or linus or mac 
    <TYPE "python3 checkmypass.py first_psk second_psk ........asmany passowrds you wanna check">
    sample input :
-   $ python checkmypass.py 12356788 rishab1234 ria12345678910 ......etc how much you cn give
+   $ python checkmypass.py 12356788 rishab1234 ria12345678910 ......etc (your wish)
    press 'ENTER'
    
    Output :
